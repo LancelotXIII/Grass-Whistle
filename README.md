@@ -214,7 +214,6 @@ The same **seed + settings** always produces the exact same world. If you want t
 | What you want to do | Command / button |
 |---|---|
 | 🚀 Start the app | `npm run dev` |
-| 📦 Build a standalone .exe | `npm run pack:win` |
 | 🌍 Generate a world | Layout Generator → set seed → Generate |
 | 💾 Save the world data | Layout Generator → 📤 Export project |
 | 🎮 Create RPG Maker files | Map Generator → Load project → Package for RMXP |
