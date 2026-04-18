@@ -1,0 +1,74 @@
+{
+  "name": "grasswhistle",
+  "productName": "Grasswhistle",
+  "version": "0.1.0",
+  "description": "Procedural map authoring tool for RPG Maker XP-style workflows (Electron + React).",
+  "author": "Grasswhistle contributors",
+  "private": true,
+  "license": "MIT",
+  "main": "electron-main.js",
+  "scripts": {
+    "dev:renderer": "vite",
+    "dev:electron": "wait-on http://localhost:5176 && cross-env NODE_ENV=development electron .",
+    "dev": "concurrently \"npm:dev:renderer\" \"npm:dev:electron\"",
+    "build": "vite build",
+    "start": "cross-env NODE_ENV=production electron .",
+    "pack:win": "npm run build && electron-builder --win portable --x64",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:golden": "node tools/regression/goldenSeeds.mjs",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@hyrious/marshal": "^0.3.3",
+    "jszip": "^3.10.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "simplex-noise": "^4.0.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "concurrently": "^8.0.0",
+    "cross-env": "^7.0.3",
+    "electron": "^26.0.0",
+    "electron-builder": "^25.1.8",
+    "eslint": "^9.15.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.12.0",
+    "prettier": "^3.4.1",
+    "vite": "^5.0.0",
+    "vitest": "^2.1.6",
+    "wait-on": "^7.0.0"
+  },
+  "build": {
+    "appId": "dev.grasswhistle.app",
+    "productName": "Grasswhistle",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "main/**/*",
+      "electron-main.js",
+      "preload.js",
+      "assets/**/*",
+      "src/renderer/assets/**/*",
+      "tools/RXConverter/**/*",
+      "package.json"
+    ],
+    "win": {
+      "signAndEditExecutable": false,
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  }
+}

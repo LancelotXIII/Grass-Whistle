@@ -1,0 +1,3143 @@
+{
+  "schemaVersion": 1,
+  "generator": "Grasswhistle.tools",
+  "kind": "rxdata_marshal_dump",
+  "extractedAt": "2026-04-13T18:12:33.650Z",
+  "source": {
+    "file": "map_metadata.dat"
+  },
+  "marshal": {
+    "1": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 1,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW50cm8="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": null,
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "2": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 2,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGFwcGV0IFRvd24="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "3": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 3,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "XFBOJ3MgaG91c2U="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        2,
+        8,
+        8
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "4": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 4,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gTGFi"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "5": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 5,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMQ=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        11
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "6": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 6,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMQ=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        11
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "7": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 7,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        2,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTE="
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "8": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 8,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGFwcGV0IFRvd24="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "9": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 9,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        8,
+        17,
+        11
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        14,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "10": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 10,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "aW5kb29yMw=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "11": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 11,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        14,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "12": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 12,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        14,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "13": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 13,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        14,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "14": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 14,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "15": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 15,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "16": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 16,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "17": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 17,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "18": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 18,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "19": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 19,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "20": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 20,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "21": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 21,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMg=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": [
+        null,
+        100
+      ],
+      "$sym:@town_map_position": [
+        0,
+        14,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        1,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTE="
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "23": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 23,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "24": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 24,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        23,
+        11,
+        15
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "25": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 25,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "26": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 26,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "27": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 27,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "28": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 28,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJr"
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "TW9zc1JvY2s="
+        },
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "QnVnQ29udGVzdA=="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "29": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 29,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJr"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "QnVnQ29udGVzdFJlY2VwdGlvbg=="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "30": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 30,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJr"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        8
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "QnVnQ29udGVzdFJlY2VwdGlvbg=="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "31": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 31,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMw=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        14,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        2,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTEwMQ=="
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "34": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 34,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMw=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        15,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Y2F2ZTE="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "SWNlUm9jaw=="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "35": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 35,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW5naWRvIFBsYXRlYXU="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "36": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 36,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW5naWRvIFBsYXRlYXU="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        35,
+        17,
+        7
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "37": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 37,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW5naWRvIFBsYXRlYXU="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZWxpdGUx"
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "38": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 38,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW5naWRvIFBsYXRlYXU="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "39": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 39,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNA=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        11,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        2,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTE="
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "40": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 40,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNA=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": true,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        11,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "41": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 41,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNQ=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": true,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        11,
+        7
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        1,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTEx"
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "44": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 44,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNg=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        11,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        2,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTE="
+        }
+      ],
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "45": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 45,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNg=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": true,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        11,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "46": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 46,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNA=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        12,
+        6
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "47": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 47,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNw=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": [
+        null,
+        0
+      ],
+      "$sym:@town_map_position": [
+        0,
+        15,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "cm9ja3k="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": [
+        2,
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "MTE="
+        }
+      ],
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "49": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 49,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNw=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Y2F2ZTE="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "TWFnbmV0aWM="
+        },
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzdG9ydGlvbldvcmxk"
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "50": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 50,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNw=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": true,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Y2F2ZTM="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "TWFnbmV0aWM="
+        },
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzdG9ydGlvbldvcmxk"
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "51": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 51,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNw=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        16,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": true,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Y2F2ZTI="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "TWFnbmV0aWM="
+        },
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzdG9ydGlvbldvcmxk"
+        },
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "U2NhbGVXaWxkRW5jb3VudGVyTGV2ZWxz"
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "52": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 52,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "53": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 53,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        52,
+        17,
+        14
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "54": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 54,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "55": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 55,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": [
+        52,
+        30,
+        10
+      ],
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "56": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 56,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "aW5kb29yMQ=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "57": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 57,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "58": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 58,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "59": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 59,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "aW5kb29yMQ=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "60": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 60,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "61": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 61,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "aW5kb29yMQ=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "62": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 62,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "63": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 63,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "64": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 64,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "aW5kb29yMQ=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "65": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 65,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        17,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzYWJsZUJveExpbms="
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "66": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 66,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmU="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        12,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "67": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 67,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmU="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        12,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "68": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 68,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmU="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        12,
+        12
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": true,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Zm9yZXN0"
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "69": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 69,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOA=="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        13
+      ],
+      "$sym:@dive_map_id": 70,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "70": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 70,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOA=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        13
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "dW5kZXJ3YXRlcg=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "71": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 71,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOA=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        13,
+        13
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "72": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 72,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmVydGggSXNsYW5k"
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": [
+        null,
+        50
+      ],
+      "$sym:@town_map_position": [
+        0,
+        18,
+        17
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzdG9ydGlvbldvcmxk"
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "73": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 73,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RmFyYWRheSBJc2xhbmQ="
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": true,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        22,
+        16
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "ZmllbGQ="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [
+        {
+          "__mfType": "bytes",
+          "encoding": "base64",
+          "data": "RGlzdG9ydGlvbldvcmxk"
+        }
+      ],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "74": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 74,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNg=="
+      },
+      "$sym:@outdoor_map": null,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": true,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        0,
+        12,
+        10
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": null,
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "75": {
+      "__mfType": "rubyObject",
+      "class": "GameData::MapMetadata",
+      "$sym:@id": 75,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "VGlhbGwgUmVnaW9u"
+      },
+      "$sym:@outdoor_map": true,
+      "$sym:@announce_location": null,
+      "$sym:@can_bicycle": null,
+      "$sym:@always_bicycle": null,
+      "$sym:@teleport_destination": null,
+      "$sym:@weather": null,
+      "$sym:@town_map_position": [
+        1,
+        13,
+        16
+      ],
+      "$sym:@dive_map_id": null,
+      "$sym:@dark_map": null,
+      "$sym:@safari_map": null,
+      "$sym:@snap_edges": null,
+      "$sym:@still_reflections": null,
+      "$sym:@random_dungeon": null,
+      "$sym:@battle_background": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Y2l0eQ=="
+      },
+      "$sym:@wild_battle_BGM": null,
+      "$sym:@trainer_battle_BGM": null,
+      "$sym:@wild_victory_BGM": null,
+      "$sym:@trainer_victory_BGM": null,
+      "$sym:@wild_capture_ME": null,
+      "$sym:@town_map_size": null,
+      "$sym:@battle_environment": null,
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    }
+  }
+}

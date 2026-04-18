@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "generator": "Grasswhistle.tools",
+  "kind": "rxdata_marshal_dump",
+  "extractedAt": "2026-04-13T18:12:33.784Z",
+  "source": {
+    "file": "map_connections.dat"
+  },
+  "marshal": [
+    [
+      41,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0,
+      40,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      0
+    ],
+    [
+      41,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      6,
+      45,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0
+    ],
+    [
+      44,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      43,
+      5,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0
+    ],
+    [
+      66,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      18,
+      5,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      0
+    ],
+    [
+      7,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      0,
+      5,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      2
+    ],
+    [
+      2,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0,
+      5,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      4
+    ],
+    [
+      7,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      5,
+      44,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0
+    ],
+    [
+      2,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      0,
+      66,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0
+    ],
+    [
+      69,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0,
+      66,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      10
+    ],
+    [
+      35,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      11,
+      39,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0
+    ],
+    [
+      7,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0,
+      23,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      78
+    ],
+    [
+      31,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      32,
+      23,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      0
+    ],
+    [
+      21,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0,
+      23,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      1
+    ],
+    [
+      47,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      0,
+      7,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      0
+    ],
+    [
+      21,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      0,
+      7,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      21
+    ],
+    [
+      31,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      0,
+      35,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      10
+    ],
+    [
+      69,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Tg=="
+      },
+      12,
+      2,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Uw=="
+      },
+      0
+    ],
+    [
+      47,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      8,
+      52,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      0
+    ],
+    [
+      21,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RQ=="
+      },
+      77,
+      47,
+      {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Vw=="
+      },
+      0
+    ]
+  ]
+}

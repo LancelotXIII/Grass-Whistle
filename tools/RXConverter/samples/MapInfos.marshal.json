@@ -1,0 +1,991 @@
+{
+  "schemaVersion": 1,
+  "generator": "Grasswhistle.tools",
+  "kind": "rxdata_marshal_dump",
+  "extractedAt": "2026-04-13T18:58:49.157Z",
+  "source": {
+    "file": "MapInfos.rxdata"
+  },
+  "marshal": {
+    "1": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW50cm8="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 1,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 0
+    },
+    "2": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 512,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGFwcGV0IFRvd24="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 2,
+      "$sym:@scroll_y": 336,
+      "$sym:@parent_id": 0
+    },
+    "3": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 496,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UGxheWVyJ3MgaG91c2U="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 3,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 2
+    },
+    "4": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gTGFi"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 5,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 2
+    },
+    "5": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 576,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 6,
+      "$sym:@scroll_y": 384,
+      "$sym:@parent_id": 0
+    },
+    "6": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "S3VydCdzIGhvdXNl"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 7,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 5
+    },
+    "7": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 830,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 8,
+      "$sym:@scroll_y": 736,
+      "$sym:@parent_id": 0
+    },
+    "8": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RGFpc3kncyBob3VzZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 4,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 2
+    },
+    "9": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5IFBva8OpIENlbnRlcg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 9,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 7
+    },
+    "10": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBHeW0="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 10,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 7
+    },
+    "11": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gSW5zdGl0dXRl"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 11,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 7
+    },
+    "12": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBDaXR5IENvbmRv"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 12,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 7
+    },
+    "13": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "R2FtZSBDb3JuZXI="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 13,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 7
+    },
+    "14": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiAxRg=="
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 14,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 7
+    },
+    "15": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiAyRg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 15,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 14
+    },
+    "16": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiAzRg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 16,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 14
+    },
+    "17": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiA0Rg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 17,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 14
+    },
+    "18": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiA1Rg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 18,
+      "$sym:@scroll_y": 272,
+      "$sym:@parent_id": 14
+    },
+    "19": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 512,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiBSb29mdG9w"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 19,
+      "$sym:@scroll_y": 320,
+      "$sym:@parent_id": 14
+    },
+    "20": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Q2Vkb2xhbiBEZXB0LiBFbGV2YXRvcg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 20,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 14
+    },
+    "21": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 624,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 21,
+      "$sym:@scroll_y": 566,
+      "$sym:@parent_id": 0
+    },
+    "22": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 512,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TUFQQkxBTks="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 70,
+      "$sym:@scroll_y": 499,
+      "$sym:@parent_id": 0
+    },
+    "23": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 656,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93bg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 22,
+      "$sym:@scroll_y": 564,
+      "$sym:@parent_id": 0
+    },
+    "24": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93biBQb2vDqSBDZW50ZXI="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 23,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 23
+    },
+    "25": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TGVydWNlYW4gVG93biBNYXJ0"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 24,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 23
+    },
+    "26": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gRmFuIENsdWI="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 25,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 23
+    },
+    "27": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gRGF5IENhcmU="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 26,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 23
+    },
+    "28": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 800,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJr"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 27,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 0
+    },
+    "29": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJrIEVudHJhbmNl"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 28,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 28
+    },
+    "30": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "TmF0dXJhbCBQYXJrIFBhdmlsbGlvbg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 29,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 28
+    },
+    "31": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 1430,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgMw=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 30,
+      "$sym:@scroll_y": 459,
+      "$sym:@parent_id": 0
+    },
+    "34": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 672,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SWNlIENhdmU="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 31,
+      "$sym:@scroll_y": 582,
+      "$sym:@parent_id": 31
+    },
+    "35": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 560,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SW5naWRvIFBsYXRlYXUgb3V0c2lkZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 32,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 0
+    },
+    "36": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 400,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gTGVhZ3VlIGVudHJhbmNl"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 33,
+      "$sym:@scroll_y": 304,
+      "$sym:@parent_id": 35
+    },
+    "37": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "UG9rw6ltb24gTGVhZ3VlIHJvb20gMQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 34,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 35
+    },
+    "38": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "SGFsbCBvZiBGYW1l"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 35,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 35
+    },
+    "39": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 704,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNA=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 36,
+      "$sym:@scroll_y": 368,
+      "$sym:@parent_id": 0
+    },
+    "40": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 528,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNCBDeWNsaW5nIFJvYWQ="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 37,
+      "$sym:@scroll_y": 336,
+      "$sym:@parent_id": 39
+    },
+    "41": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 576,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 39,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 0
+    },
+    "44": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 720,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 40,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 0
+    },
+    "45": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 624,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNiBDeWNsaW5nIFJvYWQ="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 41,
+      "$sym:@scroll_y": 384,
+      "$sym:@parent_id": 44
+    },
+    "46": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNCBDeWNsaW5nIFJvYWQgZ2F0ZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 38,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 39
+    },
+    "47": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 809,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNw=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 43,
+      "$sym:@scroll_y": 459,
+      "$sym:@parent_id": 0
+    },
+    "49": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 544,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um9jayBDYXZlIDFG"
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 44,
+      "$sym:@scroll_y": 464,
+      "$sym:@parent_id": 47
+    },
+    "50": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 480,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um9jayBDYXZlIEIxRg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 45,
+      "$sym:@scroll_y": 416,
+      "$sym:@parent_id": 49
+    },
+    "51": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RHVuZ2Vvbg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 46,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 49
+    },
+    "52": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 704,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVy"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 47,
+      "$sym:@scroll_y": 520,
+      "$sym:@parent_id": 0
+    },
+    "53": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVyIFBva8OpIENlbnRlcg=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 48,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "54": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZyb250aWVyIE1hcnQ="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 49,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "55": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIFRvd2Vy"
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 50,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "56": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIFRvd2VyIGFyZW5h"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 52,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 55
+    },
+    "57": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U3RhZGl1bSBDdXAgbG9iYnk="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 51,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 55
+    },
+    "58": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIFBhbGFjZQ=="
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 53,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "59": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIFBhbGFjZSBhcmVuYQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 54,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 58
+    },
+    "60": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEFyZW5h"
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 55,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "61": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEFyZW5hIGFyZW5h"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 56,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 60
+    },
+    "62": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZhY3Rvcnk="
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 57,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 52
+    },
+    "63": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZhY3RvcnkgaW50cm8gY29ycmlkb3I="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 58,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 62
+    },
+    "64": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZhY3RvcnkgYXJlbmE="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 59,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 62
+    },
+    "65": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIEZhY3RvcnkgY29ycmlkb3I="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 60,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 62
+    },
+    "66": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 352,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmUgb3V0c2lkZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 61,
+      "$sym:@scroll_y": 336,
+      "$sym:@parent_id": 0
+    },
+    "67": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmUgZ2F0ZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 62,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 66
+    },
+    "68": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 816,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U2FmYXJpIFpvbmU="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 63,
+      "$sym:@scroll_y": 547,
+      "$sym:@parent_id": 66
+    },
+    "69": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 736,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOA=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 64,
+      "$sym:@scroll_y": 652,
+      "$sym:@parent_id": 0
+    },
+    "70": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 736,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOCB1bmRlcndhdGVy"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 65,
+      "$sym:@scroll_y": 468,
+      "$sym:@parent_id": 69
+    },
+    "71": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgOCBoYXJib3I="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 66,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 69
+    },
+    "72": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 464,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmVydGggSXNsYW5k"
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 67,
+      "$sym:@scroll_y": 524,
+      "$sym:@parent_id": 0
+    },
+    "73": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 464,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RmFyYWRheSBJc2xhbmQ="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 68,
+      "$sym:@scroll_y": 524,
+      "$sym:@parent_id": 0
+    },
+    "74": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 320,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "Um91dGUgNiBDeWNsaW5nIFJvYWQgZ2F0ZQ=="
+      },
+      "$sym:@expanded": false,
+      "$sym:@order": 42,
+      "$sym:@scroll_y": 240,
+      "$sym:@parent_id": 44
+    },
+    "75": {
+      "__mfType": "rubyObject",
+      "class": "RPG::MapInfo",
+      "$sym:@scroll_x": 512,
+      "$sym:@name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "VGlhbGwgUmVnaW9u"
+      },
+      "$sym:@expanded": true,
+      "$sym:@order": 69,
+      "$sym:@scroll_y": 384,
+      "$sym:@parent_id": 0
+    }
+  }
+}

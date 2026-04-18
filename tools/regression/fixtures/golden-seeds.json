@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "cases": [
+    {
+      "input": {
+        "seed": 12345,
+        "width": 10,
+        "height": 10,
+        "settlements": 6,
+        "secretHalo": true
+      },
+      "output": {
+        "seed": null,
+        "width": 10,
+        "height": 10,
+        "panelSize": 48,
+        "settlementCount": 6,
+        "routePanelCount": 66,
+        "forestHaloCount": 41,
+        "roadPathCount": 43,
+        "roadWaypointCount": 58,
+        "terrainHash": null,
+        "typeCountsHash": "cd7afedcf20a66a7bc35f88a2c88cba124a8cd4a3cdbdd81534e7539afd12a28"
+      },
+      "regenerateFromTerrain": {
+        "seed": null,
+        "width": 10,
+        "height": 10,
+        "panelSize": 48,
+        "settlementCount": 6,
+        "routePanelCount": 66,
+        "forestHaloCount": 41,
+        "roadPathCount": 43,
+        "roadWaypointCount": 58,
+        "terrainHash": null,
+        "typeCountsHash": "cd7afedcf20a66a7bc35f88a2c88cba124a8cd4a3cdbdd81534e7539afd12a28"
+      }
+    },
+    {
+      "input": {
+        "seed": 777,
+        "width": 12,
+        "height": 8,
+        "settlements": 6,
+        "secretHalo": false
+      },
+      "output": {
+        "seed": null,
+        "width": 12,
+        "height": 8,
+        "panelSize": 48,
+        "settlementCount": 8,
+        "routePanelCount": 80,
+        "forestHaloCount": 48,
+        "roadPathCount": 44,
+        "roadWaypointCount": 49,
+        "terrainHash": null,
+        "typeCountsHash": "b38340d70c79541fdf7e5d15a03639c4391562329bbccaeb86586dc8b23360f8"
+      },
+      "regenerateFromTerrain": {
+        "seed": null,
+        "width": 12,
+        "height": 8,
+        "panelSize": 48,
+        "settlementCount": 8,
+        "routePanelCount": 80,
+        "forestHaloCount": 48,
+        "roadPathCount": 44,
+        "roadWaypointCount": 49,
+        "terrainHash": null,
+        "typeCountsHash": "b38340d70c79541fdf7e5d15a03639c4391562329bbccaeb86586dc8b23360f8"
+      }
+    }
+  ]
+}
