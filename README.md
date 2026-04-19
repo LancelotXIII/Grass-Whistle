@@ -57,8 +57,6 @@ npm run dev
 
 A window will open — that's Grasswhistle. You're ready to go.
 
-> 💡 **Want a standalone .exe instead?** Run `npm run pack:win` and find the portable executable inside the `release/` folder. No terminal needed to run it after that.
-
 ---
 
 ## 🌱 Part 2 — Generating a World Map
