@@ -1,0 +1,467 @@
+{
+  "schemaVersion": 1,
+  "generator": "Grasswhistle.tools",
+  "kind": "rxdata_marshal_dump",
+  "extractedAt": "2026-04-13T18:12:33.851Z",
+  "source": {
+    "file": "town_map.dat"
+  },
+  "marshal": {
+    "0": {
+      "__mfType": "rubyObject",
+      "class": "GameData::TownMap",
+      "$sym:@id": 0,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "RXNzZW4="
+      },
+      "$sym:@filename": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "bWFwUmVnaW9uMC5wbmc="
+      },
+      "$sym:@point": [
+        [
+          13,
+          12,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "TGFwcGV0IFRvd24="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "T2FrJ3MgTGFi"
+          },
+          2,
+          8,
+          8,
+          null
+        ],
+        [
+          13,
+          11,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMQ=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          13,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q2Vkb2xhbiBDaXR5"
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q2Vkb2xhbiBEZXB0LiBTdG9yZQ=="
+          },
+          7,
+          47,
+          11,
+          null
+        ],
+        [
+          14,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q2Vkb2xhbiBDaXR5"
+          },
+          null,
+          7,
+          47,
+          11,
+          null
+        ],
+        [
+          14,
+          9,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMg=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          14,
+          8,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMg=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          15,
+          8,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "TGVydWNlYW4gVG93bg=="
+          },
+          null,
+          23,
+          11,
+          15,
+          null
+        ],
+        [
+          16,
+          8,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "TmF0dXJhbCBQYXJr"
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          15,
+          7,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMw=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          15,
+          6,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMw=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "SWNlIENhdmU="
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          14,
+          6,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgMw=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          13,
+          6,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "SW5naWRvIFBsYXRlYXU="
+          },
+          null,
+          35,
+          17,
+          7,
+          null
+        ],
+        [
+          12,
+          6,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNA=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          11,
+          6,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNA=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          11,
+          7,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNQ=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q3ljbGUgUm9hZA=="
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          11,
+          8,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNQ=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q3ljbGUgUm9hZA=="
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          11,
+          9,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNQ=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Q3ljbGUgUm9hZA=="
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          11,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNg=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          12,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNg=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          15,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNw=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          16,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgNw=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um9jayBDYXZl"
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          17,
+          10,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "QmF0dGxlIEZyb250aWVy"
+          },
+          null,
+          52,
+          17,
+          14,
+          null
+        ],
+        [
+          12,
+          12,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "U2FmYXJpIFpvbmU="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          13,
+          13,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "Um91dGUgOA=="
+          },
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "RGl2aW5nIGFyZWE="
+          },
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          18,
+          17,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "QmVydGggSXNsYW5k"
+          },
+          null,
+          null,
+          null,
+          null,
+          51
+        ],
+        [
+          22,
+          16,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "RmFyYWRheSBJc2xhbmQ="
+          },
+          null,
+          null,
+          null,
+          null,
+          52
+        ]
+      ],
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    },
+    "1": {
+      "__mfType": "rubyObject",
+      "class": "GameData::TownMap",
+      "$sym:@id": 1,
+      "$sym:@real_name": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "VGlhbGw="
+      },
+      "$sym:@filename": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "bWFwUmVnaW9uMS5wbmc="
+      },
+      "$sym:@point": [
+        [
+          13,
+          16,
+          {
+            "__mfType": "bytes",
+            "encoding": "base64",
+            "data": "SGVyZQ=="
+          },
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "$sym:@flags": [],
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    }
+  }
+}

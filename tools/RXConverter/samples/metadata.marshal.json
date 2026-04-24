@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "generator": "Grasswhistle.tools",
+  "kind": "rxdata_marshal_dump",
+  "extractedAt": "2026-04-13T18:12:33.719Z",
+  "source": {
+    "file": "metadata.dat"
+  },
+  "marshal": {
+    "0": {
+      "__mfType": "rubyObject",
+      "class": "GameData::Metadata",
+      "$sym:@id": 0,
+      "$sym:@start_money": 3000,
+      "$sym:@start_item_storage": [
+        null
+      ],
+      "$sym:@home": [
+        3,
+        7,
+        5,
+        8
+      ],
+      "$sym:@real_storage_creator": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmlsbA=="
+      },
+      "$sym:@wild_battle_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIHdpbGQ="
+      },
+      "$sym:@trainer_battle_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIHRyYWluZXI="
+      },
+      "$sym:@wild_victory_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIHZpY3Rvcnkgd2lsZA=="
+      },
+      "$sym:@trainer_victory_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmF0dGxlIHZpY3RvcnkgdHJhaW5lcg=="
+      },
+      "$sym:@wild_capture_ME": null,
+      "$sym:@surf_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "U3VyZmluZw=="
+      },
+      "$sym:@bicycle_BGM": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": "QmljeWNsZQ=="
+      },
+      "$sym:@pbs_file_suffix": {
+        "__mfType": "bytes",
+        "encoding": "base64",
+        "data": ""
+      }
+    }
+  }
+}

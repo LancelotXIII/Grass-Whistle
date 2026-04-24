@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+.env
+.DS_Store
+notes/
+
+# Local-only authoring assets
+assets/*_base.png
+
+
+.claude/
