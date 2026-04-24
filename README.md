@@ -1,65 +1,73 @@
-# Grasswhistle
+# Overview
 
-Desktop app (Electron + React) for procedural map authoring and RPG Maker XP–style export: settlements, routing, cliffs, biomes, Map Generator asset mapping, **`render.json`** + packed tilesets, and optional **`.rxdata`** output via vendored **RX Converter**.
+Welcome to **Grasswhistle** — a map-making tool designed to help you build entire regions for RPG Maker XP, quickly and with a lot of creative control.
 
-**License:** [MIT](LICENSE). Third-party: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). **History:** [CHANGELOG.md](CHANGELOG.md).
+The idea is simple: you sketch out a region procedurally (roads, settlements, forests, cliffs), assign visual styles to different zones, then package everything directly into your game. No manual tile-placing, no copy-pasting map files.
 
----
+Grasswhistle is not a replacement for the craft of making your maps feel alive — think of it as the skeleton. It lays out the overall shape, wires everything into RPG Maker XP, and gives you a canvas. Making those maps fun and lovely is still your job, and the fun part.
 
-## Documentation
+## Getting started
 
-**[docs/HANDBOOK.md](docs/HANDBOOK.md)** — architecture, generation pipeline, file formats, RMXP export, IPC, and how to extend the project.
+### 1. Install Node.js
+Download and install Node.js if you don't have it yet — just follow the installer.
+👉 [nodejs.org/en/download](https://nodejs.org/en/download)
 
-**[docs/wang_tile_layouts.md](docs/wang_tile_layouts.md)** — detailed Wang / `cliff_double` layout tables and semantic conversion (1×13 strip, 5×3 grid, 5×4 sheet, master table).
+### 2. Clone & open the project
+Clone the repo, then open the project folder in your terminal or command prompt.
 
-CLI details for Marshal / `.rxdata` tooling: **`tools/RXConverter/README.md`**.
-
----
-
-## Tech stack
-
-- **Electron** (main) + **React** (renderer), **Vite** (bundler / dev server)
-- **Canvas** rendering; procedural logic in plain **JavaScript**
-- **simplex-noise**, **jszip**, **@hyrious/marshal** (for RX Converter / RMXP)
-
----
-
-## Quick start
-
+### 3. Install dependencies
 ```bash
 npm install
+```
+
+### 4. Start the dev server
+```bash
 npm run dev
 ```
+## Procedural generation
 
-Vite serves the renderer at `http://localhost:5176`; Electron opens automatically.
+Rather than designing your region tile by tile, Grasswhistle generates the layout for you based on a handful of settings — how many settlements, what size, what cliff style. The result is different every time you hit generate, and you can keep rolling until something clicks. Once you find a layout you like, you lock it in and move on to making it look the way you want.
 
-```bash
-npm run build && npm run start   # production-style: load dist/ in Electron
-npm run test && npm run lint
-npm run pack:win                 # optional Windows portable .exe → release/
+If you're curious about the concept, [procedural generation](https://en.wikipedia.org/wiki/Procedural_generation) is a broad topic used in games from Minecraft to Spelunky — Grasswhistle applies it specifically to region layouts for RPG Maker.
+
+
+## The two tools
+
+Grasswhistle is split into two screens that you use in order:
+
+| Tool | What you do here |
+|---|---|
+| **Layout Generator** | Design your region — size, settlements, routes, biomes. Generate as many times as you like until it feels right. |
+| **Map Generator** | Load the exported region, assign tile graphics to each biome, then package it into your RMXP game folder. |
+
+They're kept separate on purpose. You can tweak your layout and re-export without losing your tile assignments, and you can swap in new art without touching the layout at all.
+
+## What a region looks like
+
+A region is a grid of **panels**. Each panel becomes its own map in RPG Maker XP. Panels are automatically grouped and named — settlements, routes, bonus areas — and nested under a Region folder in the RMXP map tree:
+
+```
+My Region
+├── Settlement 1
+│   ├── Settlement 1 A
+│   └── Settlement 1 B
+├── Route 1
+│   └── Route 1 A
+├── Bonus Area 1
+│   └── Bonus Area 1 A
+└── Halo
+    └── Halo A
 ```
 
----
+Each zone in your region can have its own **biome** — a visual style that controls what the ground, grass, roads, cliffs, and trees look like. You can have a lush green area next to a volcanic one, and each will use its own tile set automatically. See the **Biomes** section for the full list. Grasswhistle currently support 6 pre-named biomes. You can use them all, or just the one.
 
-## Repository highlights
+When you open your game in RPG Maker XP, all of these maps are already there, fully tiled and ready to connect.
 
-| Path | Role |
-| :--- | :--- |
-| `electron-main.js`, `preload.js`, `main/` | Electron lifecycle, IPC, disk I/O |
-| `src/renderer/App.jsx` | UI: Layout Generator, Map Generator |
-| `src/renderer/layoutGen.js` | Procedural engine |
-| `src/renderer/render/regionRender.js` | Layout bake / render |
-| `src/renderer/mg/` | Map Generator mosaic + render bundle |
-| `tools/RXConverter/` | RMXP `.rxdata` writers + CLI (see handbook §11) |
+### Panel types
 
----
+Grasswhistle generates three types of panels:
 
-## Distribution
+1. **Settlement** — Cleared, flat zones ready for your cities and towns. The surrounding area is bordered by a thin ring of forest or water to give each settlement a natural edge.
+2. **Route** — Your classic Pokémon-style routes, with pre-placed grass patches, tree lines, hills, and roads already laid out for you.
+3. **Bonus Area** — Panels that don't fit neatly as a route or settlement would normally sit unused as a buffer. Rather than waste them, Grasswhistle can turn them into hidden points of interest — secret areas, detours, or mini-dungeons. They're fully enclosed by forest or water, so you get to decide where the entrance goes.
 
-Recommended: **clone**, **`npm install`**, **`npm run dev`** (or `build` + `start`). Optional **`npm run pack:win`** for a local portable build (unsigned Windows binaries may trigger SmartScreen).
-
-Public clone URL referenced in earlier releases: **https://github.com/LancelotXIII/Grass-Whistle** (adjust for your fork).
-
----
-
-*Enjoy forging your worlds.*
